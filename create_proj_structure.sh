@@ -1,3 +1,6 @@
+# Author : Srinivas Cheemalapati
+# This is a simple script to create a repeatable directory structure for Python Projects
+
 #!/bin/bash
 
 # Create a project tree 
